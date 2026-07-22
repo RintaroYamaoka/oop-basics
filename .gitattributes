@@ -1,0 +1,2 @@
+# Markdown はリポジトリ内で常に LF に統一する
+*.md text eol=lf
